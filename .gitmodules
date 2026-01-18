@@ -1,12 +1,12 @@
 [submodule "bsp"]
 	path = bsp
-	url = https://github.com/radxa/allwinner-bsp.git
+	url = https://github.com/stem-mini/allwinner-bsp.git
 	branch = cubie-aiot-v1.4.6
 [submodule "src"]
 	path = src
-	url = https://github.com/radxa/kernel.git
+	url = https://github.com/stem-mini/kernel.git
 	branch = allwinner-aiot-linux-5.15
 [submodule "device-a733"]
 	path = device-a733
-	url = https://github.com/radxa/allwinner-device.git
+	url = https://github.com/stem-mini/allwinner-device.git
 	branch = device-a733-v1.4.6
